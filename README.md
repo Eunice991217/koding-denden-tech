@@ -6,7 +6,6 @@
 - 매주 주말 / 미정
 
 | Section  |Date| 
-미정 ㅇㅇ
 |----------|--|
 | Section1 |2024.03.13 WEN|
 | Section2 |2024.03.15 FRI|
