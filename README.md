@@ -1,28 +1,29 @@
 # 코딩을 지탱하는 기술 스터디
 
-주 1회 모여 스터디 진행
+주 1 ~ 2회 스터디 진행
 
 ## ⏳ 일정
-- 매주 주말 / 미정
+- 매주 수요일
+- 주말 (토/일) 유동적
 
 | Section  |Date| 
 |----------|--|
-| Section1 |2024.03.13 WEN|
-| Section2 |2024.03.15 FRI|
-| Section3 |2024.03.18 MON|
-| Section4 |2024.03.22 FRI|
-| Section5 |2024.03.25 MON|
-| Section6 |2024.03.27 WEN|
-| Section7 |2024.03.29 FRI|
-| Section8 |2024.04.01 MON|
-| Section9 |2024.04.03 WEN|
+| Section1 |2024.03.28 THU|
+| Section2 |~~~~~~~~~~~~~~|
+| Section3 |~~~~~~~~~~~~~~|
+| Section4 |2024.03.31 SUN|
+| Section5 |--------------|
+| Section6 |--------------|
+| Section7 |--------------|
+| Section8 |--------------|
+| Section9 |--------------|
 
 총무 : 호기
 
 ## ⚖️ 규칙
 1. 지각 시 벌금 5000원에서 배수로 늘어난다.
 2. 각자 세션을 요약해서 PR을 날리고, 스터디 동안 하나의 요약본을 만들어가기
-3. 각자 요약본 PR은 스터디 시작 전까지만 받는다. (늦으면 벌금)
+3. 각자 요약본 PR은 스터디 시작 전(1시간)까지만 받는다. (늦으면 벌금)
 
 ## 👨‍👨‍👦‍👦 멤버
 | <img src="https://avatars.githubusercontent.com/jhon3242" width=150> | <img src="https://avatars.githubusercontent.com/pricelees" width=150> | <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/masonkimseoul" width=150> | <img src="https://avatars.githubusercontent.com/hyxrxn" width=150> | 
