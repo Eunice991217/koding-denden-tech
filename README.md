@@ -21,7 +21,7 @@
 3. 각자 요약본 PR은 스터디 시작 전(1시간)까지만 받는다. (늦으면 벌금)
 
 ## 👨‍👨‍👦‍👦 멤버
-| <img src="https://avatars.githubusercontent.com/jihunParkkk" width=150> | <img src="https://avatars.githubusercontent.com/Eunice991217" width=150> | <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/kkosang" width=150> | <img src="https://avatars.githubusercontent.com/SongGwanSeok" width=150> | <img src="https://avatars.githubusercontent.com/FLU0RITE" width=150> | <img src="https://avatars.githubusercontent.com/sgo722" width=150> |
+| <img src="https://avatars.githubusercontent.com/Eunice991217" width=150> | <img src="https://avatars.githubusercontent.com/jihunParkkk" width=150> | <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/kkosang" width=150> | <img src="https://avatars.githubusercontent.com/SongGwanSeok" width=150> | <img src="https://avatars.githubusercontent.com/FLU0RITE" width=150> | <img src="https://avatars.githubusercontent.com/sgo722" width=150> |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|[@감자](https://github.com/jihunparkkk)|[@밍깅](https://github.com/Eunice991217)|[@호기](https://github.com/hoyeonyy)|[@꼬상](https://github.com/kkosang)|[@석마](https://github.com/SongGwanSeok)| [@썩띡](https://github.com/FLU0RITE)| [@더마포](https://github.com/sgo722)| 
+|[@밍깅](https://github.com/Eunice991217)| [@감자](https://github.com/jihunparkkk) | [@호기](https://github.com/hoyeonyy)|[@꼬상](https://github.com/kkosang)|[@석마](https://github.com/SongGwanSeok)| [@썩띡](https://github.com/FLU0RITE)| [@더마포](https://github.com/sgo722)| 
 
