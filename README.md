@@ -8,18 +8,10 @@
 
 | Section  |Date| 
 |----------|--|
-| Section1 |2024.03.28 THU|
-| Section2 |-|
-| Section3 |-|
-| Section4 |-|
-| Section5 |2024.03.31 SUN|
-| Section6 |-|
-| Section7 |-|
-| Section8 |2024.04.03 WED|
-| Section9 |--------------|
-| Section10 |2024.04.07 SUN|
-| Section11 |--------------|
-| Section12 |2024.04.10 WED|
+| Section1 ~ 5 |2024.03.31 SUN|
+| Section6 ~ 8 |2024.04.03 WED|
+| Section9 ~ 10 |2024.04.07 SUN|
+| Section11 ~ 12 |2024.04.10 WED|
 
 총무 : 호기
 
