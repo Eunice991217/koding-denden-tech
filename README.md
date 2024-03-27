@@ -9,8 +9,8 @@
 | Section  |Date| 
 |----------|--|
 | Section1 |2024.03.28 THU|
-| Section2 |~~~~~~~~~~~~~~|
-| Section3 |~~~~~~~~~~~~~~|
+| Section2 |-|
+| Section3 |-|
 | Section4 |2024.03.31 SUN|
 | Section5 |--------------|
 | Section6 |--------------|
