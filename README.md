@@ -26,7 +26,7 @@
 3. 각자 요약본 PR은 스터디 시작 전(1시간)까지만 받는다. (늦으면 벌금)
 
 ## 👨‍👨‍👦‍👦 멤버
-| <img src="https://avatars.githubusercontent.com/jhon3242" width=150> | <img src="https://avatars.githubusercontent.com/pricelees" width=150> | <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/masonkimseoul" width=150> | <img src="https://avatars.githubusercontent.com/hyxrxn" width=150> | 
+| <img src="https://avatars.githubusercontent.com/jihunParkkk" width=150> | <img src="https://avatars.githubusercontent.com/pricelees" width=150> | <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/masonkimseoul" width=150> | <img src="https://avatars.githubusercontent.com/hyxrxn" width=150> | 
 |:--:|:--:|:--:|:--:|:--:|
-|[@타칸](https://github.com/jhon3242)|[@상돌](https://github.com/pricelees)|[@호기](https://github.com/hoyeonyy)|[@메이슨](https://github.com/masonkimseoul)|[@아토](https://github.com/hyxrxn)|
+|[@감자](https://github.com/jihunparkkk)|[@상돌](https://github.com/pricelees)|[@호기](https://github.com/hoyeonyy)|[@메이슨](https://github.com/masonkimseoul)|[@아토](https://github.com/hyxrxn)|
 
