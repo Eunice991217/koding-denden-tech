@@ -6,19 +6,19 @@
 - 매주 수요일
 - 주말 (토/일) 유동적
 
-| Section  |Date| 
-|----------|--|
-| Section1 ~ 5 |2024.03.31 SUN|
-| Section6 ~ 8 |2024.04.03 WED|
-| Section9 ~ 10 |2024.04.07 SUN|
-| Section11 ~ 12 |2024.04.10 WED|
+| Section  |Date| 완료 |
+|----------|--| -- |
+| Section1 ~ 5 |2024.03.31 SUN| ✅ |
+| Section6 ~ 8 |2024.04.03 WED|   |
+| Section9 ~ 10 |2024.04.07 SUN|   |
+| Section11 ~ 12 |2024.04.10 WED|   |
 
 총무 : 호기
 
 ## ⚖️ 규칙
 1. 지각 시 벌금 5000원에서 배수로 늘어난다.
-2. 각자 세션을 요약해서 PR을 날리고, 스터디 동안 하나의 요약본을 만들어가기
-3. 각자 요약본 PR은 스터디 시작 전(1시간)까지만 받는다. (늦으면 벌금)
+2. 각자 요약본 PR은 스터디 시작 전(1시간)까지만 받는다. (늦으면 벌금)
+3. 스터디 시간 늦으면 벌금
 
 ## 👨‍👨‍👦‍👦 멤버
 | <img src="https://avatars.githubusercontent.com/Eunice991217" width=150> | <img src="https://avatars.githubusercontent.com/jihunParkkk" width=150> | <img src="https://avatars.githubusercontent.com/hoyeonyy" width=150> | <img src="https://avatars.githubusercontent.com/kkosang" width=150> | <img src="https://avatars.githubusercontent.com/SongGwanSeok" width=150> | <img src="https://avatars.githubusercontent.com/FLU0RITE" width=150> | <img src="https://avatars.githubusercontent.com/sgo722" width=150> |
