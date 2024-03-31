@@ -6,12 +6,12 @@
 - 매주 수요일
 - 주말 (토/일) 유동적
 
-| Section  |Date| 
-|----------|--|
-| Section1 ~ 5 |2024.03.31 SUN|
-| Section6 ~ 8 |2024.04.03 WED|
-| Section9 ~ 10 |2024.04.07 SUN|
-| Section11 ~ 12 |2024.04.10 WED|
+| Section  |Date| 완료 |
+|----------|--| -- |
+| Section1 ~ 5 |2024.03.31 SUN| ✅ |
+| Section6 ~ 8 |2024.04.03 WED|   |
+| Section9 ~ 10 |2024.04.07 SUN|   |
+| Section11 ~ 12 |2024.04.10 WED|   |
 
 총무 : 호기
 
