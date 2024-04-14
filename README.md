@@ -11,7 +11,7 @@
 | Section1 ~ 5 |2024.03.31 SUN| ✅ |
 | Section6 ~ 8 |2024.04.04 THU| ✅ |
 | Section9 ~ 10 |2024.04.07 SUN| ✅ |
-| Section11 ~ 12 |2024.04.13 SAT|   |
+| Section11 ~ 12 |2024.04.13 SAT| ✅ |
 
 총무 : 호기
 
